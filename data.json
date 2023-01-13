@@ -4,21 +4,21 @@
   "links": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/concationation"
+      "href": "https://twitter.com/concationation"
     },
     {
       "title": "Github",
-      "url": "https://github.com/RafaelPilumyan"
+      "href": "https://github.com/RafaelPilumyan"
     }
   ],
   "socials": [
     {
       "title": "Instagram",
-      "url": "https://www.instagram.com/concationation/"
+      "href": "https://www.instagram.com/concationation/"
     },
     {
       "title": "TikTok",
-      "url": "https://www.tiktok.com/@concationation"
+      "href": "https://www.tiktok.com/@concationation"
     }
   ]
 }
